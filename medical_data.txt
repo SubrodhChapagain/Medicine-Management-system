@@ -1,0 +1,10 @@
+Paracetamol 500mg, Lomus,1100,5,45,10
+Cetirizine 10mg, Quest,740,4,35,12
+Amoxicillin 500mg, Nepal Remedies,500,12,110,15
+Pantoprazole 40mg, Deurali-Janta,600,7,60,8
+ORS Sachet, Time Pharma,192,20,180,12
+synex,khanal,14,25,14,12
+nosaldrop,nose,92,12,22,30
+pills,sandesh,62,12,10,20
+painkiller,killer,46,10,8,14
+painkiller2,killer2,50,5,8,10

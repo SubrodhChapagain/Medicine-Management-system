@@ -12,7 +12,7 @@ def generate_invoice(transaction_type, cart, grand_total, customer_name):
     bill_no = random.randint(10000, 99999)
      
     now = datetime.datetime.now() #current date and time 
-    timestamp = now.strftime("%Y%m%d_%H%M%S") # format date and time
+    timestamp = now.strftime("%Y%m%d_%H%M%S")# format date and time
 
     prefix = "Sell" if transaction_type == "SALE" else "Restock"
     #for unique invoice name

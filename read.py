@@ -8,7 +8,6 @@ def read_medical_data(inputPath):
 
     store each medicine details from (medical_data.txt) in a dictionary.
     All dictionaries are collected into a list called 'stock' which is returned at the end.
-
     """
     stock = []
     try:

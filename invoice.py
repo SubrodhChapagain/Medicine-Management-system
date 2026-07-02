@@ -20,7 +20,7 @@ def generate_invoice(transaction_type, cart, grand_total, customer_name):
 
     with open(filepath, "w") as file:
         file.write("=" * 75 + "\n")
-        file.write(f"{'MedStore Pvt. Ltd':^70}\n")
+        file.write(f"{'MedStore Pvt.Ltd':^70}\n")
         file.write("=" * 75 + "\n")
 
         file.write(f"Bill No : {bill_no}\n")

@@ -83,7 +83,7 @@ def sell_medicine(processed_data):
 
                     break
 
-            if not found: #handling for medicine name
+            if not found: #data handling for medicine name
                 print("Medicine not found!")
                 
             #Multiple medicine
